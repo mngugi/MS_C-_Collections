@@ -45,8 +45,8 @@ class Records
 
         double jeongAverage = (jeong1 + jeong2 + jeong3 + jeong4 + jeong5) / (double)currentAssignments;
 
-        Console.WriteLine($"{"Id",-10} {"Name",-6} {"Average",-8} Grade");
-        
+        Console.WriteLine($"{"Id",-5} {"Name",-6} {"Average",-8} Grade");
+
 
     }
 }
