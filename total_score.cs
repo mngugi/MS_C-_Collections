@@ -8,7 +8,7 @@ int currentAssignments = 5;
 
         double sophiaSum = (sophia1 + sophia2 + sophia3 + sophia4 + sophia5);
 
-         int nicolas1 = 80;
+        int nicolas1 = 80;
         int nicolas2 = 83;
         int nicolas3 = 82;
         int nicolas4 = 88;
@@ -16,7 +16,7 @@ int currentAssignments = 5;
 
         double nicolasSum = (nicolas1 + nicolas2 + nicolas3 + nicolas4 + nicolas5);
 
-         int zahirah1 = 84;
+        int zahirah1 = 84;
         int zahirah2 = 96;
         int zahirah3 = 73;
         int zahirah4 = 85;
@@ -32,4 +32,3 @@ int currentAssignments = 5;
 
         double jeongAverage = (jeong1 + jeong2 + jeong3 + jeong4 + jeong5);
 
-        
