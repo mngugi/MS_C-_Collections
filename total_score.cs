@@ -32,3 +32,11 @@ int currentAssignments = 5;
 
         double jeongAverage = (jeong1 + jeong2 + jeong3 + jeong4 + jeong5);
 
+
+Console.WriteLine($"{"ID",-4} {"Name",-10} {"Total Score",-12} Grade");
+        Console.WriteLine(new string('-', 40));
+
+        Console.WriteLine($"{1,-4} {"Sophia",-10} {sophiaSum,-12} A");
+        Console.WriteLine($"{2,-4} {"Nicolas",-10} {nicolasSum,-12} B");
+        Console.WriteLine($"{3,-4} {"Zahirah",-10} {zahirahAverage,-12} B");
+        Console.WriteLine($"{4,-4} {"Jeong",-10} {jeongAverage,-12} A");    
