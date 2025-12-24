@@ -23,3 +23,13 @@ int currentAssignments = 5;
         int zahirah5 = 79;
 
         double zahirahAverage = (zahirah1 + zahirah2 + zahirah3 + zahirah4 + zahirah5);
+
+        int jeong1 = 91;
+        int jeong2 = 95;
+        int jeong3 = 97;
+        int jeong4 = 93;
+        int jeong5 = 94;
+
+        double jeongAverage = (jeong1 + jeong2 + jeong3 + jeong4 + jeong5);
+
+        
