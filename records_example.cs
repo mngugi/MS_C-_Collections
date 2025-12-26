@@ -15,6 +15,7 @@ class Program
         };
 
         // Table header
+        Console.WriteLine(new string('-', 25));
         Console.WriteLine($"{"Student",-10} {"Score",-6} Grade");
         Console.WriteLine(new string('-', 25));
 
