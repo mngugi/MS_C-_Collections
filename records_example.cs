@@ -11,7 +11,8 @@ class Program
             new Student("Sophia", 94.6, 'A'),
             new Student("Nicolas", 83.6, 'B'),
             new Student("Zahirah", 83.4, 'B'),
-            new Student("Jeong", 95.4, 'A')
+            new Student("Jeong", 95.4, 'A'),
+            new Student("Winter", 79.6, 'C'),
         };
 
         // Table header
